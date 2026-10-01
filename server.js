@@ -104,7 +104,7 @@ app.get("/graham", (req, res) => {
     content="width=device-width, initial-scale=1.0"
   >
 
-  <title>Graham - Marshall Foods</title>
+  <title>Graham - HR Department</title>
 
   <style>
 
@@ -543,7 +543,7 @@ app.post("/create-bot", async (req, res) => {
           meeting_url: meeting_url,
 
           bot_name:
-            "Graham - Marshall Foods",
+            "Graham - HR Department",
 
 
           output_media: {
